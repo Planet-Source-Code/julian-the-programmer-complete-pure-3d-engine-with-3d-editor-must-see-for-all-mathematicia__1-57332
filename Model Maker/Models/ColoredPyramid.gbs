@@ -1,0 +1,94 @@
+!3-0
+{
+Coord(1).X 5
+Coord(1).Y 15
+Coord(1).Z 15
+Coord(1).W 1
+
+Coord(2).X 15
+Coord(2).Y 25
+Coord(2).Z 15
+Coord(2).W 1
+
+Coord(3).X 5
+Coord(3).Y 25
+Coord(3).Z 5
+Coord(3).W 1
+
+SC 1677721
+
+TexCoord(1).X 0
+TexCoord(1).Y 0
+
+TexCoord(2).X 0
+TexCoord(2).Y 0
+
+TexCoord(3).X 0
+TexCoord(3).Y 0
+
+TexWidth 128
+TexHeight 128
+}
+
+{
+Coord(1).X 5
+Coord(1).Y 25
+Coord(1).Z 5
+Coord(1).W 1
+
+Coord(2).X 15
+Coord(2).Y 15
+Coord(2).Z 5
+Coord(2).W 1
+
+Coord(3).X 5
+Coord(3).Y 15
+Coord(3).Z 15
+Coord(3).W 1
+
+SC 16777
+
+TexCoord(1).X 0
+TexCoord(1).Y 0
+
+TexCoord(2).X 0
+TexCoord(2).Y 0
+
+TexCoord(3).X 0
+TexCoord(3).Y 0
+
+TexWidth 128
+TexHeight 128
+}
+
+{
+Coord(1).X 15
+Coord(1).Y 25
+Coord(1).Z 15
+Coord(1).W 1
+
+Coord(2).X 15
+Coord(2).Y 15
+Coord(2).Z 5
+Coord(2).W 1
+
+Coord(3).X 5
+Coord(3).Y 15
+Coord(3).Z 15
+Coord(3).W 1
+
+SC 167778
+
+TexCoord(1).X 0
+TexCoord(1).Y 0
+
+TexCoord(2).X 0
+TexCoord(2).Y 0
+
+TexCoord(3).X 0
+TexCoord(3).Y 0
+
+TexWidth 128
+TexHeight 128
+}
+
